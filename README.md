@@ -1,6 +1,6 @@
-- 👋 Hi there, I’m @jeffersonvpa
+- 👋 Hi there, I’m @jeffersonvpa.
 - 👀 I’m interested in Python and Tech.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning Python (Started last year).
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: jeffersonvpa@hotmail.com
 
